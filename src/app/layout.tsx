@@ -21,16 +21,16 @@ export const metadata: Metadata = {
   icons: {
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Github Galaxy",
+    description: "Github in 3D",
+    url: "https://githubgalaxy.vercel.app/",
+    siteName: "Github Galaxy",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Github Galaxy",
+    description: "Github in 3D",
   },
 };
 
